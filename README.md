@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *Java, PHP, CodeIgniter, CSS, Bootstrap, etc.*
 
-- 💬 Ask me about *PHP and CodeIgniter*
+- 💬 Ask me about *Java, PHP and CodeIgniter*
 
 - 📫 How to reach me *fauzansuken@gmail.com*
 
