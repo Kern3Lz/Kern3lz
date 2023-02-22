@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenzundera" alt="kenzundera" /></a> </p>
 
-- 🔭 I’m currently working on *Email Blast*
+- 🔭 I’m currently working on *Zundera Coding Club*
 
 - 🌱 I’m currently learning *Java, PHP, CodeIgniter, CSS, Bootstrap, etc.*
 
