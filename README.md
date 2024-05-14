@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning *Java, PHP, CodeIgniter, CSS, Bootstrap, etc.*
 
-- 💬 Ask me about *Java, PHP and CodeIgniter*
+- 💬 Ask me about *Java, Python, SQL, PHP and CodeIgniter*
 
-- 📫 How to reach me *fauzansuken@gmail.com*
+- 📫 How to reach me *Kern3Lz@gmail.com*
 
-- ⚡ Fun fact *I am 17 y.o*
+- ⚡ Fun fact *I am Superhuman*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
