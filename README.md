@@ -24,9 +24,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kern3lz&show_icons=true&locale=en&layout=compact" alt="kern3lz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kern3lza&show_icons=true&locale=en" alt="kern3lz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kern3lz&show_icons=true&locale=en" alt="kern3lz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenzundera&" alt="kern3lz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kern3lz&" alt="kern3lz" /></p>
 
 <!--
 **KenZundera/KenZundera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
