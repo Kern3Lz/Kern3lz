@@ -8,6 +8,6 @@
 - 💬 Ask me about *Website Development*
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kern3lz&theme=bear&show_icons=true&locale=en&layout=compact" alt="Kern3lz" /></p>
+<center></center><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kern3lz&theme=bear&show_icons=true&locale=en&layout=compact" alt="Kern3lz" /></p></center>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kern3lz&theme=bear&show_icons=true&locale=en" alt="Kern3lz" /></p>
