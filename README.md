@@ -7,7 +7,5 @@
 
 - 💬 Ask me about *Website Development*
 
-<br>
-<center></center><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kern3lz&theme=bear&show_icons=true&locale=en&layout=compact" alt="Kern3lz" /></p></center>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kern3lz&theme=bear&show_icons=true&locale=en" alt="Kern3lz" /></p>
+| <a href="https://github.com/Kern3lz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kern3lz&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&hide=contribs&rank_icon=github" alt="Anurag's github stats" /></a> | <a href="https://github.com/Kern3lz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kern3lz&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
